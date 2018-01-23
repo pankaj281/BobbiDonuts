@@ -1,0 +1,6 @@
+c:\users\pank\documents\visual studio 2012\Projects\BobbiDonuts\BobbiDonuts\bin\Debug\BobbiDonuts.exe.config
+c:\users\pank\documents\visual studio 2012\Projects\BobbiDonuts\BobbiDonuts\bin\Debug\BobbiDonuts.exe
+c:\users\pank\documents\visual studio 2012\Projects\BobbiDonuts\BobbiDonuts\bin\Debug\BobbiDonuts.pdb
+c:\users\pank\documents\visual studio 2012\Projects\BobbiDonuts\BobbiDonuts\obj\Debug\BobbiDonuts.csprojResolveAssemblyReference.cache
+c:\users\pank\documents\visual studio 2012\Projects\BobbiDonuts\BobbiDonuts\obj\Debug\BobbiDonuts.exe
+c:\users\pank\documents\visual studio 2012\Projects\BobbiDonuts\BobbiDonuts\obj\Debug\BobbiDonuts.pdb
